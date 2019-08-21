@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">صلى على الرسول</string>
+    <string name="titleHome">إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ ۚ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا</string>
+
+    <string-array name="time">
+        <item>1 دقيقه</item>
+        <item>5 دقيقه</item>
+        <item>30 دقيقه</item>
+        <item>60 دقيقه</item>
+    </string-array>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-3184134287364305~3500285834</string>
+    <string name="banner_home_footer">ca-app-pub-3184134287364305/4053506523</string>
+
+</resources>
